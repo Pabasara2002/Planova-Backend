@@ -1,0 +1,16 @@
+{
+  "faq": [
+    {
+      "q": "How far in advance should I book?",
+      "a": "We recommend booking at least 3 weeks in advance to ensure availability."
+    },
+    {
+      "q": "What packages do you offer?",
+      "a": "We offer Silver, Gold, and Platinum packages, each with customizable features."
+    },
+    {
+      "q": "Do you provide catering services?",
+      "a": "Yes, all our packages include customizable catering options."
+    }
+  ]
+}
